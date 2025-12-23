@@ -29,5 +29,3 @@ Analyzed operational and customer data of **High Cloud Airlines** to uncover ins
 - Enhanced understanding of airline efficiency and passenger trends
 - Recommendations to reduce delays and optimize routes
 
-## Project Structure
-
