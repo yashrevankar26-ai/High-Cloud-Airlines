@@ -28,4 +28,3 @@ Analyzed operational and customer data of **High Cloud Airlines** to uncover ins
 - Dashboards to support data-driven operational and business decisions
 - Enhanced understanding of airline efficiency and passenger trends
 - Recommendations to reduce delays and optimize routes
-
