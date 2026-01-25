@@ -106,8 +106,6 @@ order by e.Flight_Type;
 
 Select * from Details;
 
-Drop view Details;
-
 
 -- Identify number of flights based on Distance groups Distance_Group_ID Distance_Interval
 Select a.Distance_Interval as Distance_Interval, 
