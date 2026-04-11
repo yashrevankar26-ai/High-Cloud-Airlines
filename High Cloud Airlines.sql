@@ -9,7 +9,7 @@ Select concat(format(sum(Transported_Passengers)/1000000,0), "M") as Total_Passe
 
 Select concat(round(count(*)/1000,0), "K") as Total_Flights from maindata;
 
-Select concat(format(sum(distance)/1000000,2), "M") as Total_Distance from maindata;
+Select concat(format(sum(distance)/1000000,2), "M") as Total_Distance from maindata; 
 
 Select count(Airline_ID) as Total_Airlines from Airlines;
 
