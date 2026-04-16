@@ -13,7 +13,7 @@ Analyzed operational and customer data of **High Cloud Airlines** to uncover ins
 ## Tools & Technologies
 - **Excel**: Data cleaning, pivot tables, charts
 - **SQL**: Querying, aggregations, joins, and KPI calculations
-- **Power BI**: Dashboard creation, data modeling, KPI visualization
+- **Power BI**: Dashboard creation, data modeling, KPI visualization 
 - **Tableau**: Advanced visualizations, trend and geographic analysis
 
 ## Key Insights
