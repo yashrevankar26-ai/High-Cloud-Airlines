@@ -8,7 +8,7 @@ Analyzed operational and customer data of **High Cloud Airlines** to uncover ins
 - Analyze flight delays, cancellations, and route performance.
 - Study passenger behavior and peak travel periods.
 - Identify revenue trends and key performance indicators (KPIs).
-- Create interactive dashboards for operational and business insights. 
+- Create interactive dashboards for operational and business insights.
 
 ## Tools & Technologies
 - **Excel**: Data cleaning, pivot tables, charts
