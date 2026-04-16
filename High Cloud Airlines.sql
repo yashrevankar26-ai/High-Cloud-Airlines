@@ -3,7 +3,7 @@ show tables;
 Select * from maindata;
 
 -- KPIs 
-Select concat(round((sum(Transported_Passengers) / sum(Available_Seats)) * 100, 2), "%") as Load_Factor from maindata; 
+Select concat(round((sum(Transported_Passengers) / sum(Available_Seats)) * 100, 2), "%") as Load_Factor from maindata;
 
 Select concat(format(sum(Transported_Passengers)/1000000,0), "M") as Total_Passengers from maindata;
 
