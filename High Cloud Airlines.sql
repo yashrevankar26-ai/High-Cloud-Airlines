@@ -1,5 +1,5 @@
 use airlines;
-show tables; 
+show tables;
 Select * from maindata;
 
 -- KPIs 
