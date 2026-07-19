@@ -1,4 +1,4 @@
-use airlines;
+use airlines; 
 show tables;
 Select * from maindata;
 
