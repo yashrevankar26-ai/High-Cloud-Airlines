@@ -1,5 +1,5 @@
 # High-Cloud-Airlines-Project 
-Revolutionizing the airline industry with data-driven insights! ✈️ Explore my comprehensive data analytics project for Highcloud Airlines, featuring: 📊 Power BI Dashboards 📈 Tableau Dashboards 🧮 SQL Queries 📂 Excel Dashboard. 
+Revolutionizing the airline industry with data-driven insights! ✈️ Explore my comprehensive data analytics project for High cloud Airlines, featuring: 📊 Power BI Dashboards 📈 Tableau Dashboards 🧮 SQL Queries 📂 Excel Dashboard. 
 
 ## Project Overview
 Analyzed operational and customer data of **High Cloud Airlines** to uncover insights that improve flight performance, revenue, and passenger satisfaction. Interactive dashboards provide actionable insights for business decision-making.
